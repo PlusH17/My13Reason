@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pluskalovah\\source\\repos\\LinkedList\\LinkedList\\LinkedList.csproj": {}
+    "O:\\3.C\\Programovaní\\GitHUB\\My13Reason\\LinkedList\\LinkedList\\LinkedList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pluskalovah\\source\\repos\\LinkedList\\LinkedList\\LinkedList.csproj": {
+    "O:\\3.C\\Programovaní\\GitHUB\\My13Reason\\LinkedList\\LinkedList\\LinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pluskalovah\\source\\repos\\LinkedList\\LinkedList\\LinkedList.csproj",
+        "projectUniqueName": "O:\\3.C\\Programovaní\\GitHUB\\My13Reason\\LinkedList\\LinkedList\\LinkedList.csproj",
         "projectName": "LinkedList",
-        "projectPath": "C:\\Users\\pluskalovah\\source\\repos\\LinkedList\\LinkedList\\LinkedList.csproj",
+        "projectPath": "O:\\3.C\\Programovaní\\GitHUB\\My13Reason\\LinkedList\\LinkedList\\LinkedList.csproj",
         "packagesPath": "C:\\Users\\pluskalovah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pluskalovah\\source\\repos\\LinkedList\\LinkedList\\obj\\",
+        "outputPath": "O:\\3.C\\Programovaní\\GitHUB\\My13Reason\\LinkedList\\LinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

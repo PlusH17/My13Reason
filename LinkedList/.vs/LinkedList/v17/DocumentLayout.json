@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pluskalovah\\source\\repos\\LinkedList\\",
+  "WorkspaceRootPath": "O:\\3.C\\Programovan\u00ED\\GitHUB\\My13Reason\\LinkedList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80CBA800-9C62-4102-B496-E6FA51EF9B22}|LinkedList\\LinkedList.csproj|c:\\users\\pluskalovah\\source\\repos\\linkedlist\\linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80CBA800-9C62-4102-B496-E6FA51EF9B22}|LinkedList\\LinkedList.csproj|o:\\3.c\\programovan\u00ED\\github\\my13reason\\linkedlist\\linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80CBA800-9C62-4102-B496-E6FA51EF9B22}|LinkedList\\LinkedList.csproj|solutionrelative:linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pluskalovah\\source\\repos\\LinkedList\\LinkedList\\Program.cs",
+              "DocumentMoniker": "O:\\3.C\\Programovan\u00ED\\GitHUB\\My13Reason\\LinkedList\\LinkedList\\Program.cs",
               "RelativeDocumentMoniker": "LinkedList\\Program.cs",
-              "ToolTip": "C:\\Users\\pluskalovah\\source\\repos\\LinkedList\\LinkedList\\Program.cs",
+              "ToolTip": "O:\\3.C\\Programovan\u00ED\\GitHUB\\My13Reason\\LinkedList\\LinkedList\\Program.cs",
               "RelativeToolTip": "LinkedList\\Program.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAAwFQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAF8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T12:51:16.956Z",
               "EditorCaption": ""

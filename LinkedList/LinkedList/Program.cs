@@ -7,7 +7,7 @@ namespace Spojovy_seznam
         static void Main(string[] args)
         {
             LinkedList linkedList = new LinkedList(); // vytvoření nového instance typu LinkedList (to je už náš vlastní datový typ)
-
+            linkedList.SortLinkedList();
             linkedList.Add(4); // můžeme na něm volat námi implmentovanou metodu Add
             linkedList.Add(5);
             linkedList.Add(6);
@@ -15,6 +15,7 @@ namespace Spojovy_seznam
             int minimum = linkedList.FindMinimum();
             Console.WriteLine("Minimum je: " + minimum);
             linkedList.PrintLinkedList();
+  
         }
     }
 
@@ -88,5 +89,32 @@ namespace Spojovy_seznam
             return;
                 
         }
+
+        public void SortLinkedList()
+        {
+            if (Head != null)
+            {
+
+                Node node = Head;
+
+                while (node.Next != null)
+                {
+                    if (node.Next.Value > node.Value)
+                    {
+                        node = node.Next;
+                    }
+                    else
+                    {
+                        Node pomoc = node.Next;
+                        node.Next = node.Next.Next;
+                        node.Next.Next = pomoc;
+
+                    }
+                }
+            }
+
+
+        }
+
     }
 }
