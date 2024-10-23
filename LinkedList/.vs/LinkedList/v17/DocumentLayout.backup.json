@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pluskalovah\\source\\repos\\LinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80CBA800-9C62-4102-B496-E6FA51EF9B22}|LinkedList\\LinkedList.csproj|c:\\users\\pluskalovah\\source\\repos\\linkedlist\\linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CBA800-9C62-4102-B496-E6FA51EF9B22}|LinkedList\\LinkedList.csproj|solutionrelative:linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pluskalovah\\source\\repos\\LinkedList\\LinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "LinkedList\\Program.cs",
+              "ToolTip": "C:\\Users\\pluskalovah\\source\\repos\\LinkedList\\LinkedList\\Program.cs",
+              "RelativeToolTip": "LinkedList\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAYwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:51:16.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
