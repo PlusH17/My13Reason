@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\zavorky_plus\zavorky_plus\bin\Debug\zavorky_plus.exe.config
+C:\Users\Dell\source\repos\zavorky_plus\zavorky_plus\bin\Debug\zavorky_plus.exe
+C:\Users\Dell\source\repos\zavorky_plus\zavorky_plus\bin\Debug\zavorky_plus.pdb
+C:\Users\Dell\source\repos\zavorky_plus\zavorky_plus\obj\Debug\zavorky_plus.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\zavorky_plus\zavorky_plus\obj\Debug\zavorky_plus.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\zavorky_plus\zavorky_plus\obj\Debug\zavorky_plus.exe
+C:\Users\Dell\source\repos\zavorky_plus\zavorky_plus\obj\Debug\zavorky_plus.pdb
