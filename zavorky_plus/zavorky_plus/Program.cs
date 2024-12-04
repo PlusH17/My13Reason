@@ -1,4 +1,4 @@
-﻿using Microsoft.Win32;
+using Microsoft.Win32;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,8 +22,6 @@ namespace zasobnik
             DecompositingNumber(rozklad);
 
             Console.ReadLine();
-
-            
         }
 
         public static bool CheckingZavorky(string zkoumani)
@@ -46,11 +44,9 @@ namespace zasobnik
                         (horni == '[' && znak == ']') ||
                         (horni == '(' && znak == ')'))
                     {
-                        Zasobnik.Pop(); 
+                        Zasobnik.Pop();
                     }
-                    
                 }
-                 
             }
 
             if (Zasobnik.Count > 0)
@@ -61,9 +57,9 @@ namespace zasobnik
 
         public static bool DecompositingNumber(int cislo)
         {
-            if(cislo <= 0)
+            if (cislo <= 0)
             {
-                Console.WriteLine("Přijde ti to jako kladné číslo? Mně ne... ");
+                Console.WriteLine("Přijde ti to jako kladné číslo? Mně ne...");
                 return false;
             }
 
@@ -76,21 +72,34 @@ namespace zasobnik
             List<string> UzVytiskle = new List<string>();
             Queue<int> Original = new Queue<int>();
 
+            // Naplnění fronty jedničkami
             for (int i = 0; i < cislo; i++)
             {
                 Original.Enqueue(1);
             }
 
-            Console.WriteLine(string.Join("+", Original)); 
+            Console.WriteLine(string.Join("+", Original)); // základní rozklad (1+1+...+1)
 
-            for (int KolikOdeberu = 2; KolikOdeberu < Original.Count; KolikOdeberu++)
+            // Zavolání rekurzivní metody
+            GenerateCombinations(Original, UzVytiskle);
+
+            return true;
+        }
+
+        private static void GenerateCombinations(Queue<int> currentQueue, List<string> UzVytiskle)
+        {
+            int count = currentQueue.Count;
+
+            for (int KolikOdeberu = 2; KolikOdeberu < count; KolikOdeberu++)
             {
-                Queue<int> Fronta = new Queue<int>(Original);
+                Queue<int> Fronta = new Queue<int>(currentQueue);
 
                 while (Fronta.Count > 1)
-                { 
+                {
                     int pomocnik = 0;
                     int DoCyklu = 0;
+
+                    // Odebírání hodnot pro sloučení
                     while (DoCyklu < KolikOdeberu && Fronta.Count > 0)
                     {
                         int horni = Fronta.Peek();
@@ -99,17 +108,22 @@ namespace zasobnik
                         DoCyklu++;
                     }
 
-                    Fronta.Enqueue(pomocnik);
+                    Fronta.Enqueue(pomocnik); // Přidání součtu zpět do fronty
 
+                    // Převod fronty na řetězec pro kontrolu a výpis
                     string frontaString = string.Join("+", Fronta);
-                    if (!UzVytiskle.Contains(frontaString))
+                    string frontaReverseString = string.Join("+", Fronta.Reverse()); // Reverzní verze
+
+                    if (!UzVytiskle.Contains(frontaString) && !UzVytiskle.Contains(frontaReverseString))
                     {
                         UzVytiskle.Add(frontaString);
-                        Console.WriteLine(frontaString); 
+                        Console.WriteLine(frontaString);
+
+                        
+                        GenerateCombinations(new Queue<int>(Fronta), UzVytiskle);
                     }
                 }
             }
-            return true;
         }
     }
 }
