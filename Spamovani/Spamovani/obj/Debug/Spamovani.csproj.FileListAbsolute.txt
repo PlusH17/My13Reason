@@ -1,0 +1,7 @@
+C:\Users\Dell\OneDrive\Dokumenty\Doppler\Csharp\Spamovani\Spamovani\bin\Debug\Spamovani.exe.config
+C:\Users\Dell\OneDrive\Dokumenty\Doppler\Csharp\Spamovani\Spamovani\bin\Debug\Spamovani.exe
+C:\Users\Dell\OneDrive\Dokumenty\Doppler\Csharp\Spamovani\Spamovani\bin\Debug\Spamovani.pdb
+C:\Users\Dell\OneDrive\Dokumenty\Doppler\Csharp\Spamovani\Spamovani\obj\Debug\Spamovani.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Dokumenty\Doppler\Csharp\Spamovani\Spamovani\obj\Debug\Spamovani.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Dokumenty\Doppler\Csharp\Spamovani\Spamovani\obj\Debug\Spamovani.exe
+C:\Users\Dell\OneDrive\Dokumenty\Doppler\Csharp\Spamovani\Spamovani\obj\Debug\Spamovani.pdb
