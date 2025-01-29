@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ÚVODNÍ STRÁNKA</title>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+        }
+
+        table {
+            width: 100vw;
+            height: 100vh;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid black;
+            text-align: center;
+        }
+
+        tr:nth-child(1) {
+            height: 10%;
+        }
+
+        tr:nth-child(2) {
+            height: 5%;
+        }
+
+        .po_stranach_vlevo {
+            background-image: url('epicsagy.png');
+            background-size: cover;
+            width: 10vw;
+            min-width: 100px;
+        }
+
+        .po_stranach_vpravo {
+            background-image: url('epicsagy01.png');
+            background-size: cover;
+            width: 10vw;
+            min-width: 100px;
+        }
+
+        .content {
+            width: 80vw;
+            text-align: left; /* Zarovná text doleva */
+            padding: 20px; /* Přidá odsazení od kraje */
+        }
+
+        .nadpis {
+            color: aliceblue;
+            font-size: 25pt;
+            font-family: "Times New Roman", serif;
+            font-weight: bold;
+        }
+
+        /* Menší nadpisy */
+        .nadpis2 {
+            font-size: 20pt;
+            color: rgb(8, 5, 50);
+            font-family: "Times New Roman", serif;
+            font-weight: bold;
+            margin-top: 20px; /* Odsazení od předchozího textu */
+        }
+
+        .actual {
+            color: rgb(98, 8, 8);
+            
+            font-family: "Times New Roman", serif;
+            font-weight: bold;
+        }
+
+        
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td colspan="12" style="background-image: url('epicsagy.png'); height: 100px;" class="nadpis">EPIC THE MUSICAL</td>
+        </tr>
+
+        <tr>
+            <td colspan="2"><a href="strankauvod.html"> HOME</a></td>
+            <td colspan="2" class="actual">CAST</td>
+            <td colspan="2"><a href="Sagy.html">  SAGY</a></td>
+            <td colspan="2">FUN FACT</td>
+            <td colspan="2">MEMES</td>
+            <td colspan="2">???</td>
+        </tr>
+
+        <tr>
+            <td class="po_stranach_vlevo" rowspan="10"></td>
+            <td class="content" rowspan="10" colspan="10">
+                <h2 class="nadpis2">Jorge Rivera Harris</h2>
+                <p>text text text text</p>
+                <img src="epiccast.png" alt="Fotka castu" width="60">
+
+                <h2 class="nadpis2">Autistic kecy</h2>
+                <p>text text text text</p>
+            </td>
+            <td class="po_stranach_vpravo" rowspan="10"></td>
+        </tr>
+    </table>
+</body>
+</html>
