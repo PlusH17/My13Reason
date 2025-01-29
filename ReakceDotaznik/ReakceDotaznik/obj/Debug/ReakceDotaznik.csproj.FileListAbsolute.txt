@@ -1,0 +1,7 @@
+C:\Users\pluskalovah\source\repos\ReakceDotaznik\ReakceDotaznik\bin\Debug\ReakceDotaznik.exe.config
+C:\Users\pluskalovah\source\repos\ReakceDotaznik\ReakceDotaznik\bin\Debug\ReakceDotaznik.exe
+C:\Users\pluskalovah\source\repos\ReakceDotaznik\ReakceDotaznik\bin\Debug\ReakceDotaznik.pdb
+C:\Users\pluskalovah\source\repos\ReakceDotaznik\ReakceDotaznik\obj\Debug\ReakceDotaznik.csproj.AssemblyReference.cache
+C:\Users\pluskalovah\source\repos\ReakceDotaznik\ReakceDotaznik\obj\Debug\ReakceDotaznik.csproj.CoreCompileInputs.cache
+C:\Users\pluskalovah\source\repos\ReakceDotaznik\ReakceDotaznik\obj\Debug\ReakceDotaznik.exe
+C:\Users\pluskalovah\source\repos\ReakceDotaznik\ReakceDotaznik\obj\Debug\ReakceDotaznik.pdb
