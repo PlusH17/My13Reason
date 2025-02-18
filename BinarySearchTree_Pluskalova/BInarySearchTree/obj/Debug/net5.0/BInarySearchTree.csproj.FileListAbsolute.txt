@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Dokumenty\GitPrgSem1_24_25-main\01_KODY_Z_HODIN\BinarySearchTree\BInarySearchTree\bin\Debug\net5.0\BInarySearchTree.exe
+C:\Users\Dell\OneDrive\Dokumenty\GitPrgSem1_24_25-main\01_KODY_Z_HODIN\BinarySearchTree\BInarySearchTree\bin\Debug\net5.0\BInarySearchTree.deps.json
+C:\Users\Dell\OneDrive\Dokumenty\GitPrgSem1_24_25-main\01_KODY_Z_HODIN\BinarySearchTree\BInarySearchTree\bin\Debug\net5.0\BInarySearchTree.runtimeconfig.json
+C:\Users\Dell\OneDrive\Dokumenty\GitPrgSem1_24_25-main\01_KODY_Z_HODIN\BinarySearchTree\BInarySearchTree\bin\Debug\net5.0\BInarySearchTree.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Dokumenty\GitPrgSem1_24_25-main\01_KODY_Z_HODIN\BinarySearchTree\BInarySearchTree\bin\Debug\net5.0\BInarySearchTree.dll
+C:\Users\Dell\OneDrive\Dokumenty\GitPrgSem1_24_25-main\01_KODY_Z_HODIN\BinarySearchTree\BInarySearchTree\bin\Debug\net5.0\BInarySearchTree.pdb
+C:\Users\Dell\OneDrive\Dokumenty\GitPrgSem1_24_25-main\01_KODY_Z_HODIN\BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\BInarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Dokumenty\GitPrgSem1_24_25-main\01_KODY_Z_HODIN\BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\BInarySearchTree.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Dokumenty\GitPrgSem1_24_25-main\01_KODY_Z_HODIN\BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\BInarySearchTree.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Dokumenty\GitPrgSem1_24_25-main\01_KODY_Z_HODIN\BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\BInarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Dokumenty\GitPrgSem1_24_25-main\01_KODY_Z_HODIN\BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\BInarySearchTree.dll
+C:\Users\Dell\OneDrive\Dokumenty\GitPrgSem1_24_25-main\01_KODY_Z_HODIN\BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\refint\BInarySearchTree.dll
+C:\Users\Dell\OneDrive\Dokumenty\GitPrgSem1_24_25-main\01_KODY_Z_HODIN\BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\BInarySearchTree.pdb
+C:\Users\Dell\OneDrive\Dokumenty\GitPrgSem1_24_25-main\01_KODY_Z_HODIN\BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\BInarySearchTree.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Dokumenty\GitPrgSem1_24_25-main\01_KODY_Z_HODIN\BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\ref\BInarySearchTree.dll
