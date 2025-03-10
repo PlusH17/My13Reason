@@ -1,0 +1,7 @@
+C:\Users\Dell\OneDrive\Dokumenty\Doppler\Csharp\Lexikon\Lexikon\bin\Debug\Lexikon.exe.config
+C:\Users\Dell\OneDrive\Dokumenty\Doppler\Csharp\Lexikon\Lexikon\bin\Debug\Lexikon.exe
+C:\Users\Dell\OneDrive\Dokumenty\Doppler\Csharp\Lexikon\Lexikon\bin\Debug\Lexikon.pdb
+C:\Users\Dell\OneDrive\Dokumenty\Doppler\Csharp\Lexikon\Lexikon\obj\Debug\Lexikon.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Dokumenty\Doppler\Csharp\Lexikon\Lexikon\obj\Debug\Lexikon.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Dokumenty\Doppler\Csharp\Lexikon\Lexikon\obj\Debug\Lexikon.exe
+C:\Users\Dell\OneDrive\Dokumenty\Doppler\Csharp\Lexikon\Lexikon\obj\Debug\Lexikon.pdb
