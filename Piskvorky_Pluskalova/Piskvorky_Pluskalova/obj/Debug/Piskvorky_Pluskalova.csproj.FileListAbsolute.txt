@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Piskvorky_Pluskalova\Piskvorky_Pluskalova\bin\Debug\Piskvorky_Pluskalova.exe.config
+C:\Users\Dell\source\repos\Piskvorky_Pluskalova\Piskvorky_Pluskalova\bin\Debug\Piskvorky_Pluskalova.exe
+C:\Users\Dell\source\repos\Piskvorky_Pluskalova\Piskvorky_Pluskalova\bin\Debug\Piskvorky_Pluskalova.pdb
+C:\Users\Dell\source\repos\Piskvorky_Pluskalova\Piskvorky_Pluskalova\obj\Debug\Piskvorky_Pluskalova.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Piskvorky_Pluskalova\Piskvorky_Pluskalova\obj\Debug\Piskvorky_Pluskalova.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Piskvorky_Pluskalova\Piskvorky_Pluskalova\obj\Debug\Piskvorky_Pluskalova.exe
+C:\Users\Dell\source\repos\Piskvorky_Pluskalova\Piskvorky_Pluskalova\obj\Debug\Piskvorky_Pluskalova.pdb
