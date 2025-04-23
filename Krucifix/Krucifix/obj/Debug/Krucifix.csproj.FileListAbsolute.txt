@@ -1,0 +1,7 @@
+C:\Users\pluskalovah\source\repos\Krucifix\Krucifix\bin\Debug\Krucifix.exe.config
+C:\Users\pluskalovah\source\repos\Krucifix\Krucifix\bin\Debug\Krucifix.exe
+C:\Users\pluskalovah\source\repos\Krucifix\Krucifix\bin\Debug\Krucifix.pdb
+C:\Users\pluskalovah\source\repos\Krucifix\Krucifix\obj\Debug\Krucifix.csproj.AssemblyReference.cache
+C:\Users\pluskalovah\source\repos\Krucifix\Krucifix\obj\Debug\Krucifix.csproj.CoreCompileInputs.cache
+C:\Users\pluskalovah\source\repos\Krucifix\Krucifix\obj\Debug\Krucifix.exe
+C:\Users\pluskalovah\source\repos\Krucifix\Krucifix\obj\Debug\Krucifix.pdb
