@@ -1,0 +1,7 @@
+C:\Users\Dell\OneDrive\Dokumenty\Doppler\Programování\Csharp\UvodFILM\UvodFILM\obj\Debug\UvodFILM.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Dokumenty\Doppler\Programování\Csharp\UvodFILM\UvodFILM\obj\Debug\UvodFILM.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Dokumenty\Doppler\Programování\Csharp\UvodFILM\UvodFILM\bin\Debug\UvodFILM.exe.config
+C:\Users\Dell\OneDrive\Dokumenty\Doppler\Programování\Csharp\UvodFILM\UvodFILM\bin\Debug\UvodFILM.exe
+C:\Users\Dell\OneDrive\Dokumenty\Doppler\Programování\Csharp\UvodFILM\UvodFILM\bin\Debug\UvodFILM.pdb
+C:\Users\Dell\OneDrive\Dokumenty\Doppler\Programování\Csharp\UvodFILM\UvodFILM\obj\Debug\UvodFILM.exe
+C:\Users\Dell\OneDrive\Dokumenty\Doppler\Programování\Csharp\UvodFILM\UvodFILM\obj\Debug\UvodFILM.pdb
