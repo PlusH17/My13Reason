@@ -1,7 +1,0 @@
-C:\Users\Dell\source\repos\Beast_PLus\Beast_PLus\bin\Debug\Beast_PLus.exe.config
-C:\Users\Dell\source\repos\Beast_PLus\Beast_PLus\bin\Debug\Beast_PLus.exe
-C:\Users\Dell\source\repos\Beast_PLus\Beast_PLus\bin\Debug\Beast_PLus.pdb
-C:\Users\Dell\source\repos\Beast_PLus\Beast_PLus\obj\Debug\Beast_PLus.csproj.AssemblyReference.cache
-C:\Users\Dell\source\repos\Beast_PLus\Beast_PLus\obj\Debug\Beast_PLus.csproj.CoreCompileInputs.cache
-C:\Users\Dell\source\repos\Beast_PLus\Beast_PLus\obj\Debug\Beast_PLus.exe
-C:\Users\Dell\source\repos\Beast_PLus\Beast_PLus\obj\Debug\Beast_PLus.pdb
