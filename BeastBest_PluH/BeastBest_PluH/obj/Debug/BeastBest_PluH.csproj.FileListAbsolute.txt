@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\BeastBest_PluH\BeastBest_PluH\bin\Debug\BeastBest_PluH.exe.config
+C:\Users\Dell\source\repos\BeastBest_PluH\BeastBest_PluH\bin\Debug\BeastBest_PluH.exe
+C:\Users\Dell\source\repos\BeastBest_PluH\BeastBest_PluH\bin\Debug\BeastBest_PluH.pdb
+C:\Users\Dell\source\repos\BeastBest_PluH\BeastBest_PluH\obj\Debug\BeastBest_PluH.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\BeastBest_PluH\BeastBest_PluH\obj\Debug\BeastBest_PluH.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\BeastBest_PluH\BeastBest_PluH\obj\Debug\BeastBest_PluH.exe
+C:\Users\Dell\source\repos\BeastBest_PluH\BeastBest_PluH\obj\Debug\BeastBest_PluH.pdb
