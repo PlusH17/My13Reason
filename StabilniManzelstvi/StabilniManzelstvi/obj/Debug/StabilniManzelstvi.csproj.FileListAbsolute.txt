@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\StabilniManzelstvi\StabilniManzelstvi\bin\Debug\StabilniManzelstvi.exe.config
+C:\Users\Dell\source\repos\StabilniManzelstvi\StabilniManzelstvi\bin\Debug\StabilniManzelstvi.exe
+C:\Users\Dell\source\repos\StabilniManzelstvi\StabilniManzelstvi\bin\Debug\StabilniManzelstvi.pdb
+C:\Users\Dell\source\repos\StabilniManzelstvi\StabilniManzelstvi\obj\Debug\StabilniManzelstvi.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\StabilniManzelstvi\StabilniManzelstvi\obj\Debug\StabilniManzelstvi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\StabilniManzelstvi\StabilniManzelstvi\obj\Debug\StabilniManzelstvi.exe
+C:\Users\Dell\source\repos\StabilniManzelstvi\StabilniManzelstvi\obj\Debug\StabilniManzelstvi.pdb
