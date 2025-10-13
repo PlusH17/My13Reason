@@ -1,0 +1,2 @@
+C:\Users\pluskalovah\source\repos\BATTTLE\BATTTLE\obj\Debug\BATTTLE.csproj.AssemblyReference.cache
+C:\Users\pluskalovah\source\repos\BATTTLE\BATTTLE\obj\Debug\BATTTLE.csproj.CoreCompileInputs.cache
