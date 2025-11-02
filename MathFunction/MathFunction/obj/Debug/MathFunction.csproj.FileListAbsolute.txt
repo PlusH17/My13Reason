@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\MathFunction\MathFunction\bin\Debug\MathFunction.exe.config
+C:\Users\Dell\source\repos\MathFunction\MathFunction\bin\Debug\MathFunction.exe
+C:\Users\Dell\source\repos\MathFunction\MathFunction\bin\Debug\MathFunction.pdb
+C:\Users\Dell\source\repos\MathFunction\MathFunction\obj\Debug\MathFunction.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\MathFunction\MathFunction\obj\Debug\MathFunction.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\MathFunction\MathFunction\obj\Debug\MathFunction.exe
+C:\Users\Dell\source\repos\MathFunction\MathFunction\obj\Debug\MathFunction.pdb
