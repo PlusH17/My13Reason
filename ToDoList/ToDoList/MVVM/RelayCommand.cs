@@ -5,13 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
 
-namespace ToDOList.MVVM
+namespace ToDoList.MVVM
 {
-    // RelayCommand je třída, která implementuje ICommand.
-    // ICommand je rozhraní, které WPF používá pro příkazy (např. tlačítka).
-    // Hlavní myšlenka: "tlačítko nevolá přímo metodu, ale volá příkaz".
     internal class RelayCommand : ICommand
     {
+
         // _execute uchovává metodu, která se má spustit, když příkaz provedeme (např. klikneme na tlačítko)
         private Action<object> _execute;
 
@@ -53,3 +51,4 @@ namespace ToDOList.MVVM
         }
     }
 }
+

@@ -1,12 +1,59 @@
-﻿<Window x:Class="ToDOList.MainWindow"
+﻿<Window x:Class="ToDoList.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:ToDOList"
+        xmlns:local="clr-namespace:ToDoList"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <!-- Tlačítka Přidat / Odstranit -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Content="Přidat úkol" Margin="5" Width="75" Command="{Binding AddCommand}" />
+            <Button Content="Odstranit úkol" Margin="5" Width="92" Command="{Binding DeleteCommand}"/>
+        </StackPanel>
+
+        <!-- Hlavní Grid -->
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="7*"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- DataGrid -->
+            <DataGrid 
+                ItemsSource="{Binding Duties}"
+                SelectedItem="{Binding SelectedItem}"
+                CanUserAddRows="False"
+                CanUserDeleteRows="False"
+                AutoGenerateColumns="False">
+
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Úkol" Binding="{Binding Name}" Width="3*" />
+                    <DataGridTextColumn Header="Termín" Binding="{Binding Term, StringFormat=dd.MM.yyyy}" Width="1*" />
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <!-- Detail vybraného úkolu -->
+            <StackPanel Grid.Column="1">
+                <Label Content="Úkol"/>
+                <TextBox
+                    Margin="5,0,5,15"
+                    Text="{Binding SelectedItem.Name, UpdateSourceTrigger=PropertyChanged}"/>
+
+                <Label Content="Termín" />
+                <DatePicker
+                    Margin="5,0,5,15"
+                    SelectedDate="{Binding SelectedItem.Term, Mode=TwoWay}" />
+            </StackPanel>
+
+        </Grid>
 
     </Grid>
 </Window>
