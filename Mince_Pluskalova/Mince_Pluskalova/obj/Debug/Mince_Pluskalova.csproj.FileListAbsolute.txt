@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\Mince_Pluskalova\Mince_Pluskalova\bin\Debug\Mince_Pluskalova.exe.config
+C:\Users\Dell\source\repos\Mince_Pluskalova\Mince_Pluskalova\bin\Debug\Mince_Pluskalova.exe
+C:\Users\Dell\source\repos\Mince_Pluskalova\Mince_Pluskalova\bin\Debug\Mince_Pluskalova.pdb
+C:\Users\Dell\source\repos\Mince_Pluskalova\Mince_Pluskalova\obj\Debug\Mince_Pluskalova.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Mince_Pluskalova\Mince_Pluskalova\obj\Debug\Mince_Pluskalova.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Mince_Pluskalova\Mince_Pluskalova\obj\Debug\Mince_Pluskalova.exe
+C:\Users\Dell\source\repos\Mince_Pluskalova\Mince_Pluskalova\obj\Debug\Mince_Pluskalova.pdb
+C:\Users\Dell\source\repos\Mince_Pluskalova\Mince_Pluskalova\obj\Debug\Mince_Pluskalova.exe.config
