@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\Batoh_Pluskalova\Batoh_Pluskalova\bin\Debug\net9.0\Batoh_Pluskalova.exe
+C:\Users\Dell\source\repos\Batoh_Pluskalova\Batoh_Pluskalova\bin\Debug\net9.0\Batoh_Pluskalova.deps.json
+C:\Users\Dell\source\repos\Batoh_Pluskalova\Batoh_Pluskalova\bin\Debug\net9.0\Batoh_Pluskalova.runtimeconfig.json
+C:\Users\Dell\source\repos\Batoh_Pluskalova\Batoh_Pluskalova\bin\Debug\net9.0\Batoh_Pluskalova.dll
+C:\Users\Dell\source\repos\Batoh_Pluskalova\Batoh_Pluskalova\bin\Debug\net9.0\Batoh_Pluskalova.pdb
+C:\Users\Dell\source\repos\Batoh_Pluskalova\Batoh_Pluskalova\obj\Debug\net9.0\Batoh_Pluskalova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Batoh_Pluskalova\Batoh_Pluskalova\obj\Debug\net9.0\Batoh_Pluskalova.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Batoh_Pluskalova\Batoh_Pluskalova\obj\Debug\net9.0\Batoh_Pluskalova.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Batoh_Pluskalova\Batoh_Pluskalova\obj\Debug\net9.0\Batoh_Pluskalova.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Batoh_Pluskalova\Batoh_Pluskalova\obj\Debug\net9.0\Batoh_Pluskalova.dll
+C:\Users\Dell\source\repos\Batoh_Pluskalova\Batoh_Pluskalova\obj\Debug\net9.0\refint\Batoh_Pluskalova.dll
+C:\Users\Dell\source\repos\Batoh_Pluskalova\Batoh_Pluskalova\obj\Debug\net9.0\Batoh_Pluskalova.pdb
+C:\Users\Dell\source\repos\Batoh_Pluskalova\Batoh_Pluskalova\obj\Debug\net9.0\Batoh_Pluskalova.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Batoh_Pluskalova\Batoh_Pluskalova\obj\Debug\net9.0\ref\Batoh_Pluskalova.dll
